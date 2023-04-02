@@ -13,3 +13,8 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=for-the-badge&logo=Hibernate)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=css3)
+
+### Follow me
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=007bb6)](https://www.linkedin.com/in/charginov/)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/bertramg)
