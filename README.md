@@ -12,7 +12,7 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=Postgresql)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=for-the-badge&logo=Hibernate)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
 
 ### Follow me
 
