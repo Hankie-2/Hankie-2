@@ -3,7 +3,7 @@
 <h2> Hi, I'm Marsel Charginov! <img src="https://media.giphy.com/media/76Ezod7CxRDqivd57V/giphy.gif" width="50" align=center></h2>
 
 
-<p><em>Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science Student at <a href="https://www.inai.kg">Kyrgyz-German Institute of Applied Informatics</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" align=top width="30"> 
+<p><em>Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Software Technologies Student at <a href="https://www.inai.kg">Kyrgyz-German Institute of Applied Informatics</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" align=top width="30"> 
 </em></p>
 
 ### Languages and tools
